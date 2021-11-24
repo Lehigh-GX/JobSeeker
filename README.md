@@ -1,4 +1,4 @@
-## Project setup
+## FlyHigh JobSeeker Project setup
 
 In the project directory, you can run:
 
